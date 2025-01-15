@@ -1,12 +1,14 @@
 # 💫 About Me:
 Hi, I’m Kevin Bates!
+
 I’m a strategic professional with 8+ years of experience leveraging data and analytics to drive innovation, business growth, and cross-functional collaboration. My work bridges technical teams and senior stakeholders to deliver impactful, data-informed decisions in high-growth and transformative environments.
 
 I specialize in:
 
-Data Analytics & Visualization: Using SQL, Tableau, and Python to extract insights and craft dashboards that inform strategic decisions.
-Project Management & Strategy: Leading cross-functional initiatives to align data science projects with business objectives.
-Business Growth & Innovation: Supporting decision-making through data-driven solutions for scalability, operational efficiency, and financial growth.
++ Data Analytics & Visualization: Using SQL, Tableau, and Python to extract insights and craft dashboards that inform strategic decisions.
++ Project Management & Strategy: Leading cross-functional initiatives to align data science projects with business objectives.
++ Business Growth & Innovation: Supporting decision-making through data-driven solutions for scalability, operational efficiency, and financial growth.
+  
 I’m passionate about using data to solve complex problems and transform business strategies. Explore my projects to see how I’ve applied data science tools and methodologies to real-world challenges!
 
 Let’s connect!
